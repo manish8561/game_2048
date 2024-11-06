@@ -87,3 +87,22 @@ body {
 .rules-para { 
 	padding: 20px 10px; 
 }
+
+ /* Styling the footer */
+ footer {
+	background-color: #f8f9fa;
+	padding: 10px;
+	text-align: center;
+	font-size: 0.9em;
+	color: #333;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+}
+footer a {
+	color: #007bff;
+	text-decoration: none;
+}
+footer a:hover {
+	text-decoration: underline;
+}
